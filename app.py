@@ -4,7 +4,7 @@ Main Streamlit application for LLM RAG Contract Analyzer
 import streamlit as st
 import os
 from pathlib import Path
-from services.document_service import DocumentService
+#from services.document_service import DocumentService
 from models.document import Document
 
 # Configure page
